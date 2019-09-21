@@ -7,8 +7,7 @@ Dmitry Suhov
 
 ------------
 
-### 2. Contact
-
+### 2. Contact  
 |  Phone/Telegram | ***+7 927 740 18 26***  |
 | :------------: | :------------: |
 | VK  |  [Дмитрий Сухов](https://vk.com/dmitriy_suhov_95) |
@@ -17,7 +16,7 @@ Dmitry Suhov
 
 ### 3. About me
 
-Just a story.
+Just a story.  
 Since 2014, I began to study HTML markup, CSS styles and typesetting simple pages, I was interested in it back then, a long time ago ... But it wasn’t a simple training at the university, and the work took all the time, the successes were tiny. But I didn’t after 5 years (horror, as much as 5 years passed) I did not stop dreaming of better times when I will start devoting my time to website development, and do it with a creative approach.
 Now I’m incredibly close to accomplishing an idea, I’ve been tempted to study, I haven’t been giving up and have been idle since June, every day I read and try to write something. Now is the best time for me to achieve a result. If I don’t pass this set, I’ll come to the next one, buy books, watch video courses at ITVDN, I will do everything to achieve my goal. 
 
@@ -34,10 +33,10 @@ I independently studied:
 
 ### 5. Code examples
 
-```javascrip
+```javascrip  
 function balalayka(){
     console.log("Труньк");
-}
+}  
 document.write("Брыньк");
 ```
 
@@ -56,8 +55,7 @@ document.write("Брыньк");
 Mostly laser fried pita bread. And sometimes they were engaged in Raman spectroscopy and diagnosed cancers of human tissues.
 
 ### 8. English
-London - the Capital of Great Britain...
-
+London - the Capital of Great Britain...  
 I study English using mobile applications, I try to read all TK and google in English, I specially went through the Code Academy - because everything is in English there. I read the book "Martian" in the original.
 I can discuss some topics, I don’t always understand it by ear, and today, honestly, I don’t have a rich vocobulary. But I am working on it.
 
