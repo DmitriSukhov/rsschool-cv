@@ -7,7 +7,8 @@ Dmitry Suhov
 
 ------------
 
-### 2. Contact  
+### 2. Contact
+
 |  Phone/Telegram | ***+7 927 740 18 26***  |
 | :------------: | :------------: |
 | VK  |  [Дмитрий Сухов](https://vk.com/dmitriy_suhov_95) |
