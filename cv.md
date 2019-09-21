@@ -56,9 +56,10 @@ document.write("Брыньк");
 Mostly laser fried pita bread. And sometimes they were engaged in Raman spectroscopy and diagnosed cancers of human tissues.
 
 ### 8. English
-London - the Capital of Great Britain...  
-I study English using mobile applications, I try to read all TK and google in English, I specially went through the Code Academy - because everything is in English there. I read the book "Martian" in the original.
-I can discuss some topics, I don’t always understand it by ear, and today, honestly, I don’t have a rich vocobulary. But I am working on it.
+
+<span style="color:peru">London - the Capital of Great Britain...</span>    
+<span style="color:indigo">I study English using mobile applications, I try to read all TK and google in English, I specially went through the Code Academy - because everything is in English there. I read the book "Martian" in the original.
+I can discuss some topics, I don’t always understand it by ear, and today, honestly, I don’t have a rich vocobulary. But I am working on it.</span>
 
 
 ------------
